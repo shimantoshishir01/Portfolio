@@ -1,0 +1,14 @@
+.work-1{
+    width: 600px;height: 200;background: black;color: white;float: left;text-align: center;
+}
+.work-2{
+    width: 600px;height: 200;background: black;color: white;float: right;text-align: center;
+}
+
+.work-3{
+    width: 600px;height: 200;background: black;color: white;float: inline-start;text-align: center;
+}
+
+.work-4{
+    width: 600px;height: 200;background: black;color: white;float: right;text-align: center;
+}
