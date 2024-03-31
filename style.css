@@ -1,14 +1,30 @@
-.work-1{
-    width: 600px;height: 200;background: black;color: white;float: left;text-align: center;
-}
-.work-2{
-    width: 600px;height: 200;background: black;color: white;float: right;text-align: center;
-}
 
-.work-3{
-    width: 600px;height: 200;background: black;color: white;float: inline-start;text-align: center;
-}
+    body{
+    width: 1150px;
+ 
+    }
 
-.work-4{
-    width: 600px;height: 200;background: black;color: white;float: right;text-align: center;
-}
+    .work-1{
+         width: 220px;padding: 50px; float: left; margin-right: 5px;border: solid 7px; border-color: white;
+        background: black;color: white;text-align: center;
+        }
+    .work-2{
+        width: 220px;padding: 40px; float: left; margin-right: 5px;border: solid 7px; border-color: white;
+        background: black;color: white;text-align: center;
+        }
+
+    .work-3{
+        width: 220px;float:left;padding: 7px; margin-right: 5px;border: solid 7px; border-color: white;
+        background: black;color: white;text-align: center;
+        }
+
+    .work-4{
+        width: 220px;float:right; margin-right: 5px;border: solid 7px; border-color: white;
+        background: black;color: white;text-align: center;
+        }
+    .peragraph{
+        text-align:center
+        }
+    .peragraph2{
+        text-align: center;
+        }
